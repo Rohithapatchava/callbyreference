@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\callbyreference\callbyreference\bin\Debug\callbyreference.exe.config
+D:\Rohitha\c sharp\callbyreference\callbyreference\bin\Debug\callbyreference.exe
+D:\Rohitha\c sharp\callbyreference\callbyreference\bin\Debug\callbyreference.pdb
+D:\Rohitha\c sharp\callbyreference\callbyreference\obj\Debug\callbyreference.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\callbyreference\callbyreference\obj\Debug\callbyreference.exe
+D:\Rohitha\c sharp\callbyreference\callbyreference\obj\Debug\callbyreference.pdb
+D:\Rohitha\c sharp\callbyreference\callbyreference\obj\Debug\callbyreference.csprojResolveAssemblyReference.cache
